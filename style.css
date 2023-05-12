@@ -15,6 +15,10 @@ align-items: center;
 justify-content: center;
 }
 
+.imagem-cabeçalho{
+    width: 250px;
+}
+
 .imagem-corpo{
     width: 400px;
 }
