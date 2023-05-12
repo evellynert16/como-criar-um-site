@@ -15,6 +15,10 @@ align-items: center;
 justify-content: center;
 }
 
+.imagem-corpo{
+    width: 400px;
+}
+
 .div-imagem-p1{
     display: flex;
     align-items: center;
