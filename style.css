@@ -15,14 +15,6 @@ align-items: center;
 justify-content: center;
 }
 
-.imagem-cabeçalho{
-    width: 250px;
-}
-
-.imagem-corpo{
-    width: 400px;
-}
-
 .div-imagem-p1{
     display: flex;
     align-items: center;
@@ -30,51 +22,16 @@ justify-content: center;
     font-size: 25px;
 justify-content: space-around;
 }
-.div-imagem-p2 {
-    display: flex;
+.heder {
+    height: 250px;
     align-items: center;
-    text-align: center;
-    font-size: 30px;
-    justify-content: space-around;
- }
- .div-imagem-p3 { 
+    background-color: #FF9E9E;
     display: flex;
-    align-items: center;
-    text-align: center;
-    font-size: 30px;
-    justify-content: space-around;
-   
- }
- .div-imagem-2 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
- }
- .div-imagem-p4 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-size: 30px;
-    justify-content: space-around;
- 
- }
- .div-imagem-p5 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-size: 30px;
-    justify-content: space-around;
- }
- .div-imagem-p6 {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-size: 30px;
-    justify-content: space-around;
- }
- 
- .título-corpo{
-     display: flex;
-     justify-content: center;
- }
- 
+  } 
+  .imagem-cabeçalho {
+    height: 170px;
+    left: 70px;
+    position: absolute;
+    width: 300px;
+    top: 17px;
+  }
